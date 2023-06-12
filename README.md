@@ -3,7 +3,7 @@
 
 
 
-I'm ~~a space cat trapped in earth 1218~~ trying to find a balance between learning and coding games.
+I'm ~~a space cat trapped in earth 1218~~ trying to find a balance between learning and enjoy games.
 
 - 🔭 I used to learn about space physic to discover our universe
 - 🚀 I'm learning to be the best software engineer I can be
